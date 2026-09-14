@@ -1,0 +1,24 @@
+# Archivos de entorno y credenciales sensibles
+.env
+.env.*
+!.env.example
+password.txt
+
+# Dependencias
+node_modules/
+__pycache__/
+*.pyc
+
+# Builds y empaquetado
+dist/
+build/
+.cache/
+
+# Archivos de agentes y configuración local del IDE
+.gemini/
+.agents/
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
