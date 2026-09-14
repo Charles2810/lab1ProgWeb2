@@ -119,7 +119,7 @@ lab1/
 - [x] **Repositorio y Estructura:** Carpetas organizadas y `.gitignore` activo (excluyendo `.env` y credenciales).
 - [x] **Registro de Decisiones (AI-DLC):** `docs/ia/registro-ia.md` con 2 decisiones críticas y sección obligatoria *"Qué rechazamos"*.
 - [x] **Reflexión Individual:** `docs/reflexiones/lab-01-Charles.md` completada con métricas requeridas.
-- [ ] **Captura y Git Log:** Subir captura `reports/lab-01-repo.png` tras ejecutar el commit obligatorio.
+- [x] **Captura y Git Log:** Evidencia subida y confirmada en [reports/lab-01-repo.png](reports/lab-01-repo.png).
 
 ---
 

@@ -8,4 +8,10 @@ De acuerdo con la diapositiva 35 del Laboratorio 1, se debe incluir la imagen `l
 2. **La confirmación del commit obligatorio** en la terminal mediante `git log --oneline` o la vista del commit en GitHub.
 
 ### Estado actual
-- [ ] Subir captura `lab-01-repo.png` una vez realizado el primer commit y push al repositorio remoto.
+- [x] Captura `lab-01-repo.png` subida y sincronizada en el repositorio remoto.
+
+---
+
+## Vista Previa de la Evidencia
+
+![Evidencia del Repositorio en GitHub](lab-01-repo.png)
